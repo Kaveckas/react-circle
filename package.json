@@ -16,5 +16,16 @@
   "bugs": {
     "url": "https://github.com/Kaveckas/react-circle/issues"
   },
-  "homepage": "https://github.com/Kaveckas/react-circle#readme"
+  "homepage": "https://github.com/Kaveckas/react-circle#readme",
+  "devDependencies": {
+    "babel-core": "^6.21.0",
+    "babel-loader": "^6.2.10",
+    "babel-preset-env": "^1.1.4",
+    "babel-preset-react": "^6.16.0",
+    "webpack": "^1.14.0"
+  },
+  "dependencies": {
+    "react": "^15.4.1",
+    "react-dom": "^15.4.1"
+  }
 }
